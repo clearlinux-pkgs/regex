@@ -4,7 +4,7 @@
 #
 Name     : regex
 Version  : 2020.7.14
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/09/c3/ddaa87500f31ed86290e3d014c0302a51fde28d7139eda0b5f33733726db/regex-2020.7.14.tar.gz
 Source0  : https://files.pythonhosted.org/packages/09/c3/ddaa87500f31ed86290e3d014c0302a51fde28d7139eda0b5f33733726db/regex-2020.7.14.tar.gz
 Summary  : Alternative regular expression module, to replace re.
