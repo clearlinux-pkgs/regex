@@ -4,7 +4,7 @@
 #
 Name     : regex
 Version  : 2021.7.6
-Release  : 19
+Release  : 20
 URL      : https://files.pythonhosted.org/packages/c0/d1/ad6afa6000ab869f6af2c85985d40558ffb298d9fcb2ab04c0648436008f/regex-2021.7.6.tar.gz
 Source0  : https://files.pythonhosted.org/packages/c0/d1/ad6afa6000ab869f6af2c85985d40558ffb298d9fcb2ab04c0648436008f/regex-2021.7.6.tar.gz
 Summary  : Alternative regular expression module, to replace re.
