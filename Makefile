@@ -1,5 +1,5 @@
 PKG_NAME := regex
-URL = https://files.pythonhosted.org/packages/33/a0/2ee4938d1e21eb280a79136e290d9e4a80e66115a093f8b7f1be74ac99e2/regex-2021.10.23.tar.gz
+URL = https://files.pythonhosted.org/packages/c9/e5/779cf0a5f50f1208397d315745203189e765be938eccc15d45f741aebb4e/regex-2021.11.1.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
